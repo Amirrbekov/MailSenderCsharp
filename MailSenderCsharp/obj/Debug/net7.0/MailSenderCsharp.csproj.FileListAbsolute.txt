@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\bin\Debug\net7.0\MailSenderCsharp.exe
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\bin\Debug\net7.0\MailSenderCsharp.deps.json
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\bin\Debug\net7.0\MailSenderCsharp.runtimeconfig.json
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\bin\Debug\net7.0\MailSenderCsharp.dll
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\bin\Debug\net7.0\MailSenderCsharp.pdb
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.dll
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\refint\MailSenderCsharp.dll
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.pdb
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\MailSenderCsharp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\MailSenderCsharp\MailSenderCsharp\obj\Debug\net7.0\ref\MailSenderCsharp.dll
